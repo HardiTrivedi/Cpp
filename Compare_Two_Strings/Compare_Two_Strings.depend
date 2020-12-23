@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608647354 source:c:\users\hardi\desktop\cpp\compare_two_strings\main.cpp
+	<iostream>
+	<cstring>
+
