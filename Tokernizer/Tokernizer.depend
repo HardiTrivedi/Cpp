@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608652086 source:c:\users\hardi\desktop\cpp\tokernizer\main.cpp
+	<iostream>
+	<cstring>
+
